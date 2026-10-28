@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "KANKA – Your Everyday Companion",
+  "short_name": "KANKA",
+  "description": "Alles Wichtige an einem Ort.",
+  "lang": "de-DE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071a35",
+  "theme_color": "#071a35",
+  "icons": [
+    { "src": "assets/kanka-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "assets/kanka-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
